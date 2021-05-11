@@ -84,7 +84,7 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/unnamed%20(2).jpg",
         "text": "مما لا شك فيه أن تحرير فلسطين هو شرف عظيم جدا وما نراه الآن من صمت الأنظمة العربية هو شيء طبيعي لأن الله لم ولن يعطيهم شرف تحرير هذه الأرض الطيبة.. اللهم نصر إخواننا الفلسطينيين",
         "isNative": "true"
    
