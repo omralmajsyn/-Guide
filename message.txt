@@ -73,7 +73,7 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/unnamed%20(2).jpg",
         "text": "Add Audio files to your video",
         "isNative": "false"
       },
