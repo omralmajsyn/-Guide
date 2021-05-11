@@ -2,7 +2,8 @@
   "GuideData": {
 
 
-    "AdsController":{
+    "AdsController": [
+      {
         "NetworkAds": "admob",
         "AdMobId": "pub-3940256099942544",
 
@@ -14,32 +15,53 @@
         "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
         "NativeFacebook": "173186393601951_356298065290782"
 
-    },
+      }
+    ],
 
     "items": [
       {
-        "title": "Dark Meadow: The Pact",
-        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+        "title": "Add Audio files to your video",
+        "image": ""
       },
       {
-        "title": "The Old 2",
-        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+        "title": "Add song from your music app",
+        "image": ""
       },
       {
-        "title": "Call of Cthulhu: Wasted Land ",
-        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+        "title": "part2",
+        "image": ""
       },
       {
-        "title": "Dead Space Android",
-        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+        "title": "Add audio clips from your files app",
+        "image": ""
       },
       {
-        "title": "Bloody Mary",
-        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+        "title": "part2",
+        "image": ""
       },
       {
-        "title": "Twisted Lands: Shadow Town",
-        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+        "title": "Add sound effects from videoleap",
+        "image": ""
+        
+      },
+      {
+        "title": "Add Audio tracks from a video file",
+        "image": ""  
+        
+        },
+      {
+        "title": "Move trim audio on the timeline",
+        "image": ""
+        
+        },
+      {
+        "title": "Edit your audio clips",
+        "image": ""
+        
+        },
+      {
+        "title": "volume mute",
+        "image": ""
       }
     ],
 
@@ -52,7 +74,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Dark Meadow : The Pact",
+        "text": "Add Audio files to your video",
         "isNative": "false"
       },
       {
@@ -62,32 +84,231 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
-        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "image_link": "",
+        "text": "Already have a video project open with tons of vides clips in it great. lf not . add your vides and photos to a new project timeline and add transitions animations and text  if need de to build a cohesive story. songs and sound effectsare usually the last. things you add when editing clips together. so for the rest of this guide ill assume you have aproject  complety ready aside from music and sound affects.",
         "isNative": "true"
-      },
+   
+      
+      }
+    ],
+  
+
+
+    "content2": [
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
-        "left": "5",
+        "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
-        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
-        "isNative": "true"
+        "image_link": "",
+        "text": "Add song from your music app",
+        "isNative": "false"
       },
       {
         "ordered": "image_text",
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "you can add any song or audio clip from your mouzic library. whetther its from the music with you synced via itunes or from apple music with a pide subscription on the add  screen it s the first tab in the bottom left lf its your firsttime adding music you will  be prompted to give videoleap access to your apple music your music and video activity and your media libray select ok.",
+        "isNative": "true" 
+        
+        
+      }
+    ],
+
+    "content3": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
         "text_size": "25",
-        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
-        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
-        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "part2",
         "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "lf you see whoops something went wrong in the first tab instead you had at some point hit don t allow on the necessarypermissins prompt you may also have manually disabled access give videoleap premission to access audio content you can do this via videolaep in the settings app toggle on media apple music and youre ready.",
+        "isNative": "true" 
+        
+        
+      }
+    ],
+
+    "content4": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Add audio clips from your files app",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "files is apples file manager app introduced in ios 11 ifs where all of your icloud drive files can de found and youcan also access data stored in other apps on your iphone as well as from connected thrid party apps such as adodecreative cloud adobe scan baidu cloud box dropbox google drive and micrisoft onedrive.",
+        "isNative": "true" 
+        
+        
+      }
+    ],
+
+    "content5": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "part2",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "top on the bottom right tab on the add screen then selct flies lf you have any audio files in the files app whether in icloud or third party storage app youll find them here to choose a thrid party app or files that other apps have stored make sure the browse tab is selected which for icloud drive then tap locations in the top left.",
+        "isNative": "true" 
+       
+        
+      }
+    ],
+
+    "content6": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Add sound effects from videoleap",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "finally you can add in-app sound effects to your videos by tapping on the sound effects tab in the bottom right ofthe add screen you hane 11 categries to choose from action animals bleeps sci fri trailers and video games each categoryhouses from a few a few sounds effects to over twenty most of the sound effects are only a few seconds long.",
+        "isNative": "true" 
+       
+        
+      }
+    ],
+
+    "content7": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Add Audio tracks from a video file ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "lf you have a video flie that contanis a sound affect you want or you without the whole video attached it s totally possible in the timeline tap the red and white plus sign to open to open the add scrern.",
+        "isNative": "true" 
+      
+        
+      }
+    ],
+
+    "content8": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Move trim audio on the timeline",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "before we starton editing tools you should know how to move and trim the audio to move it around top and hold on the blue music icon above your audio clip the drag  it etiher left or right to clips the audio tap the music icon to select the treck then touch the left or right arrow on either end and drag inward to where you want to trim it you can also un trim audio the same way only  moving it outward.",
+        "isNative": "true" 
+        
+        
+      }
+    ],
+
+    "content9": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Edit your audio clips ",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "now that you ve selected audio to add to your video it time to mess with tools available in videoleap top on the musicicone above your audio clip to select it and view the audio editing toolbar from these tools you can adjust volume the speed and pitch and more.",
+        "isNative": "true" 
+       
+        
       }
     ]
+    
   }
 }
