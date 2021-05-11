@@ -67,7 +67,7 @@
         "color": "#FFFFFF","style": "blood",
         "gravity": "left",
         "left": "20",
-        "text_size": "40",
+        "text_size": "100",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
         "text": " ملك الهجولة و التفحیط",
