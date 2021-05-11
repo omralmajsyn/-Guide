@@ -20,48 +20,44 @@
 
     "items": [
       {
-        "title": "Add Audio files to your video",
-        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/unnamed%20(2).jpg"
+        "title": " ملك الهجولة و التفحیط",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download.jpg"
       },
       {
-        "title": "Add song from your music app",
-        "image": ""
+        "title": " لعبة هجولة",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download-(2).jpg"
       },
       {
-        "title": "part2",
-        "image": ""
+        "title": "كنق التطعیس",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download-(1).jpg"
       },
       {
-        "title": "Add audio clips from your files app",
-        "image": ""
+        "title": " مابات الهجوله",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(1).jpg"
       },
       {
-        "title": "part2",
-        "image": ""
+        "title": " مابات الهجوله",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(1).jpg"
       },
       {
-        "title": "Add sound effects from videoleap",
-        "image": ""
+        "title": " لعبة هجولة",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(2).jpg"
         
       },
       {
-        "title": "Add Audio tracks from a video file",
-        "image": ""  
-        
-        },
-      {
-        "title": "Move trim audio on the timeline",
-        "image": ""
+        "title": "ملك الهجولة و التفحیط",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images.jpg"  
         
         },
       {
-        "title": "Edit your audio clips",
-        "image": ""
+        "title": "لعبة هجولة",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(2).jpg"
         
         },
       {
-        "title": "volume mute",
-        "image": ""
+        "title": "  هجولة وتفحیط",
+        "image": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images.jpg"
+        
       }
     ],
 
@@ -73,8 +69,8 @@
         "left": "10",
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/unnamed%20(2).jpg",
-        "text": "Add Audio files to your video",
+        "image_link": "",
+        "text": " ملك الهجولة و التفحیط",
         "isNative": "false"
       },
       {
@@ -84,8 +80,29 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/unnamed%20(2).jpg",
-        "text": "مما لا شك فيه أن تحرير فلسطين هو شرف عظيم جدا وما نراه الآن من صمت الأنظمة العربية هو شيء طبيعي لأن الله لم ولن يعطيهم شرف تحرير هذه الأرض الطيبة.. اللهم نصر إخواننا الفلسطينيين",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download.jpg",
+        "text": "
+كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات ,الجنونیة
+
+ تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات *ملك الهجولة و التفحیط
+كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات
+,الجنونیة
+drift تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات
+",
         "isNative": "true"
    
       
@@ -103,7 +120,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Add song from your music app",
+        "text": " لعبة هجولة",
         "isNative": "false"
       },
       {
@@ -113,8 +130,21 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "you can add any song or audio clip from your mouzic library. whetther its from the music with you synced via itunes or from apple music with a pide subscription on the add  screen it s the first tab in the bottom left lf its your firsttime adding music you will  be prompted to give videoleap access to your apple music your music and video activity and your media libray select ok.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download-(2).jpg",
+        "text": "
+كما أعتدنا من لعبة هجولة، یمكنك أن تصنع الشخصیة التي
+تمثلك وأن تصمم انت السیارة كما تحب، كما یمكنك أن
+تصنع حلبة السباق كما تتمنى، وخیالك هو حدودك فلا تقف
+عند حد معین وكن مبدعا
+ألعب مع أصدقائك أونلاین، لحد ثمانیة لاعبین، یمكنكم
+قضاء وقت ممتع معا
+.یمكنك الاختیار من 100 سیارة مختلفة
+الأن أصبح العدد 24 ملیون لاعب حول العالم حتى لحظة
+كتابة هذه
+بلغ عدد الفیدیوهات المسجلة حتى الأن 100 ملیون فیدیو
+مسجل من قبل اللاعبین، یا له من رقم، ترى هل حقق
+الجمیع ما یریدونه في لعبة
+",
         "isNative": "true" 
         
         
@@ -130,7 +160,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "part2",
+        "text": "كنق التطعیس",
         "isNative": "false"
       },
       {
@@ -140,8 +170,23 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "lf you see whoops something went wrong in the first tab instead you had at some point hit don t allow on the necessarypermissins prompt you may also have manually disabled access give videoleap premission to access audio content you can do this via videolaep in the settings app toggle on media apple music and youre ready.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download-(1).jpg",
+        "text": "
+الاصدار الجدید یحتوي على المتعة والاثارة لمحبي التطعیس
+الان سیارات التطعیس المشهورة موجودة باللعبة
+مع تجربة فریدة من نوعها
+!!وتذكر اذا غرزت اطلب السحب
+موجودین
+!!للمساعدة
+اللعبة تحتوي على
+ترهیم وتعدیل لجمیع السیارات
+مكاین #
+تیربوو#
+فلاتر#
+واكثررر#
+تحدیات آونلاین تشمل--
+مقاومات#
+",
         "isNative": "true" 
         
         
@@ -157,7 +202,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Add audio clips from your files app",
+        "text": " مابات الهجوله",
         "isNative": "false"
       },
       {
@@ -167,8 +212,24 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "files is apples file manager app introduced in ios 11 ifs where all of your icloud drive files can de found and youcan also access data stored in other apps on your iphone as well as from connected thrid party apps such as adodecreative cloud adobe scan baidu cloud box dropbox google drive and micrisoft onedrive.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(1).jpg",
+        "text": "
+
+في الاصدار الجدید من لعبة كنق التطعیس
+لعبة هجولة الخطر صممت خصیصا لمحبي مابات الهجوله في لعبة قراند
+.(حرامي السیارات)، العب في مابات غریبه و انهي التحدیات المختلفه
+العب باحتراف و هجول في ماب النزله و العدید من المابات و التحدیات
+.الصعبه
+:ممیزات اللعبه
+-١٢ مهمة مختلفة
+-احدث الشیلاتسیارات صممت خصیصیا للهجولهمابات قراند و ماب النزله
+
+قیم اللعبة الیوم واخبرنا رأیك على قنواتنا في انستقرام ویوتیوب. رأیك
+یهمنا
+هذه اللعبة تأتیكم من طماطم، ناشر الألعاب العربیة الأول على متاجر
+الهواتف الذكیة المختلفة
+
+",
         "isNative": "true" 
         
         
@@ -184,7 +245,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "part2",
+        "text": " لعبة هجولة",
         "isNative": "false"
       },
       {
@@ -194,8 +255,22 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "top on the bottom right tab on the add screen then selct flies lf you have any audio files in the files app whether in icloud or third party storage app youll find them here to choose a thrid party app or files that other apps have stored make sure the browse tab is selected which for icloud drive then tap locations in the top left.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(2).jpg",
+        "text": "
+أفضل لعبة في الشرق الأوسط حتى الساعة
+كما أعتدنا من لعبة هجولة، یمكنك أن تصنع الشخصیة التي
+تمثلك وأن تصمم انت السیارة كما تحب، كما یمكنك أن
+تصنع حلبة السباق كما تتمنى، وخیالك هو حدودك فلا تقف
+عند حد معین وكن مبدعا
+ألعب مع أصدقائك أونلاین، لحد ثمانیة لاعبین، یمكنكم
+قضاء وقت ممتع معا
+.یمكنك الاختیار من 100 سیارة مختلفة
+الأن أصبح العدد 24 ملیون لاعب حول العالم حتى لحظة
+كتابة هذه
+بلغ عدد الفیدیوهات المسجلة حتى الأن 100 ملیون فیدیو
+مسجل من قبل اللاعبین، یا له من رقم، ترى هل حقق
+الجمیع ما یریدونه في لعبة
+",
         "isNative": "true" 
        
         
@@ -211,7 +286,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Add sound effects from videoleap",
+        "text": "ملك الهجولة و التفحیط",
         "isNative": "false"
       },
       {
@@ -221,8 +296,30 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "finally you can add in-app sound effects to your videos by tapping on the sound effects tab in the bottom right ofthe add screen you hane 11 categries to choose from action animals bleeps sci fri trailers and video games each categoryhouses from a few a few sounds effects to over twenty most of the sound effects are only a few seconds long.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images.jpg",
+        "text": "
+كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات ,الجنونیة
+
+ تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات *ملك الهجولة و التفحیط
+كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات
+,الجنونیة
+drift تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات *
+
+",
         "isNative": "true" 
        
         
@@ -238,7 +335,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Add Audio tracks from a video file ",
+        "text": " ملك الهجولة و التفحیط",
         "isNative": "false"
       },
       {
@@ -248,8 +345,28 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "lf you have a video flie that contanis a sound affect you want or you without the whole video attached it s totally possible in the timeline tap the red and white plus sign to open to open the add scrern.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/download.jpg",
+        "text": "كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات ,الجنونیة
+
+ تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات *ملك الهجولة و التفحیط
+كنق هجولة تفحیط و تطعیس ملوك العربیات دبي تحتوي علي ارقي التفحیط والتفجیر بالسیارات
+,الجنونیة
+drift تفحیط و تطعیس ودرفت دبي بأجمل السیارات یحتوي على جیب ووزنیات للسیارات
+,دبي
+.التفحیط بسیارتك المفضلة و كن مهجول محترف
+هجول یا مهجول دبي مع خصمك فهناك سیارة للتفحیط معك . تحدى اصدقائك فى الهجولة و
+.لعبة هجولها یا سعودي،صممت لمحبي الهجولة و التفحیط دبي
+.هجول بافضل ما عندك و باقصى سرعة لتتحصل على اعلى كم من النقاط
+لعبة جدیدة للتطعیس مع اجمل الشیلات المسرعة ،استمتع بالتطعیس في بیئة صحراویة
+.الاصدار الاول من لعبة هجول یا مهجول ونتمنى دعمكم وإقتراحاتكم وطلباتكم في التعلیقات *
+",
         "isNative": "true" 
       
         
@@ -265,7 +382,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Move trim audio on the timeline",
+        "text": " لعبة هجولة",
         "isNative": "false"
       },
       {
@@ -275,8 +392,23 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "before we starton editing tools you should know how to move and trim the audio to move it around top and hold on the blue music icon above your audio clip the drag  it etiher left or right to clips the audio tap the music icon to select the treck then touch the left or right arrow on either end and drag inward to where you want to trim it you can also un trim audio the same way only  moving it outward.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images-(2).jpg",
+        "text": "في الاصدار الجدید من لعبة كنق التطعیس
+الاصدار الجدید یحتوي على المتعة والاثارة لمحبي التطعیس
+الان سیارات التطعیس المشهورة موجودة باللعبة
+مع تجربة فریدة من نوعها
+!!وتذكر اذا غرزت اطلب السحب
+موجودین
+!!للمساعدة
+اللعبة تحتوي على
+ترهیم وتعدیل لجمیع السیارات
+مكاین #
+تیربوو#
+فلاتر#
+واكثررر#
+تحدیات آونلاین تشمل--
+مقاومات#
+",
         "isNative": "true" 
         
         
@@ -292,7 +424,7 @@
         "text_size": "25",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Edit your audio clips ",
+        "text": " هجولة وتفحیط",
         "isNative": "false"
       },
       {
@@ -302,8 +434,13 @@
         "left": "5",
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
-        "image_link": "",
-        "text": "now that you ve selected audio to add to your video it time to mess with tools available in videoleap top on the musicicone above your audio clip to select it and view the audio editing toolbar from these tools you can adjust volume the speed and pitch and more.",
+        "image_link": "https://raw.githubusercontent.com/omralmajsyn/-Guide/main/images.jpg",
+        "text": "في الاصدار الجدید من لعبة
+! لعبة درفت العرب أفضل وأقوى لعبة هجولة وتفحیط حتى الآن
+اذا كنت من عشاق الهجولة والدرفت الآن تقدر تختار السیارة على مزاجك
+وتعدلها وتبدأ الهجولة
+تقدر تشغل الشیلة اللي تحبها وتبدأ الهجولة وجمع النقاط وتعدیل لون
+..وجنوط السیارة وغیرها الكثیر",
         "isNative": "true" 
        
         
