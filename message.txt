@@ -85,7 +85,7 @@
         "text_size": "20",
         "isLink": "false","link_title": "","setLink": "",
         "image_link": "",
-        "text": "Already have a video project open with tons of vides clips in it great. lf not . add your vides and photos to a new project timeline and add transitions animations and text  if need de to build a cohesive story. songs and sound effectsare usually the last. things you add when editing clips together. so for the rest of this guide ill assume you have aproject  complety ready aside from music and sound affects.",
+        "text": "مما لا شك فيه أن تحرير فلسطين هو شرف عظيم جدا وما نراه الآن من صمت الأنظمة العربية هو شيء طبيعي لأن الله لم ولن يعطيهم شرف تحرير هذه الأرض الطيبة.. اللهم نصر إخواننا الفلسطينيين",
         "isNative": "true"
    
       
