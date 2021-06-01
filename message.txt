@@ -11,9 +11,9 @@
         "InterstitialAdmob": "ca-app-pub-5094603357939277/5989962508",
         "NativeAdmob": "ca-app-pub-5094603357939277/8404921597",
 
-        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
-        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
-        "NativeFacebook": "173186393601951_356298065290782"
+        "BannerFacebook": "265263542016871_266698278540064",
+        "InterstitialFacebook": "265263542016871_266690305207528",
+        "NativeFacebook": "265263542016871_266695818540310",
 
       }
     ],
